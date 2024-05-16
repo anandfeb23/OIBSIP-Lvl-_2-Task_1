@@ -1,4 +1,4 @@
-# Calculator App Project - [live=link]()
+# Calculator App Project - [live_link](https://simplecalulator.netlify.app/)
  Welcome to the repository for my Calculator App project completed as part of the Oasis Infobyte Web Development Internship! This project aims to create a user-friendly calculator application with basic arithmetic operations.
 
 # Features:
